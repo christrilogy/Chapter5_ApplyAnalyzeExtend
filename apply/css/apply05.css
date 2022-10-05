@@ -71,7 +71,7 @@ main {
   font-family: Crimson;
 }
 
-#corner {
+.corner {
   border-radius: 12px;
 
 }
