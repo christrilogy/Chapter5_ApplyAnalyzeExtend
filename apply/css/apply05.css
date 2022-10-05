@@ -46,12 +46,14 @@ nav {
 nav ul {
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+
 }
 
 nav li {
     font-size: 1.5em;
     padding: 4%;
+    display: inline-block;
+    font-family: B612;
 }
 
 nav li a {
@@ -65,7 +67,8 @@ main {
 	display: block;
 	margin: 1% 1% 15%;
 	padding: 1%;
-    font-size: 1.5em;
+  font-size: 1.5em;
+  font-family: Crimson;
 }
 
 #corner {
